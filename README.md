@@ -458,14 +458,6 @@ Organizations can:
 * Cloud Deployment
 * Generative AI Auto-Reply System
 
----
 
-# 👨‍💻 Author
-
-## Subhankar Nandi
-
-🎓 BTech CSE AIML Student
-🤖 Machine Learning & AI Enthusiast
-🚀 Passionate about NLP, AI Automation & Intelligent Systems
 
 ---
